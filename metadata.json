@@ -1,0 +1,12 @@
+{
+  "name": "puppetfinland-gwx",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Remove GWX, the infamous Windows 10 updater",
+  "source": "https://github.com/Puppet-Finland/puppet-gwx.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-gwx",
+  "dependencies": [
+    { "name": "puppetlabs/powershell", "version_requirement": ">= 1.0.4" }
+  ]
+}
